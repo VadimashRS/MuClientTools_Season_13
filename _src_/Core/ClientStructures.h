@@ -1,4 +1,4 @@
-#ifndef CLIENT_STRUCT_H
+`#ifndef CLIENT_STRUCT_H
 #define CLIENT_STRUCT_H
 
 struct MIX_RULE
