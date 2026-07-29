@@ -1,4 +1,4 @@
-`#ifndef CLIENT_STRUCT_H
+#ifndef CLIENT_STRUCT_H
 #define CLIENT_STRUCT_H
 
 struct MIX_RULE
@@ -244,20 +244,20 @@ STRUCT(ITEM_SET_OPTION) LAZY
 	int Opt_1stExValue;
 	int Opt_2ndExValue;
 
-	int Full_ExIndex;
+	int Flag;
 	int Full_Index_1;
 	int Full_Index_2;
 	int Full_Index_3;
 	int Full_Index_4;
 	int Full_Index_5;
-	int Full_ExValue;
+	int Full_Index_6;
+
 	int Full_Value_1;
 	int Full_Value_2;
 	int Full_Value_3;
 	int Full_Value_4;
 	int Full_Value_5;
-
-	int Unk;
+	int Full_Value_6;
 
 	int DW;
 	int DK;
