@@ -251,6 +251,7 @@ STRUCT(ITEM_SET_OPTION) LAZY
 	int Full_Index_4;
 	int Full_Index_5;
 	int Full_Index_6;
+	int Full_Index_7;
 
 	int Full_Value_1;
 	int Full_Value_2;
@@ -258,6 +259,7 @@ STRUCT(ITEM_SET_OPTION) LAZY
 	int Full_Value_4;
 	int Full_Value_5;
 	int Full_Value_6;
+	int Full_Value_7;
 
 	int DW;
 	int DK;
@@ -267,6 +269,7 @@ STRUCT(ITEM_SET_OPTION) LAZY
 	int SU;
 	int RF;
 	int GL;
+	int RW;
 );
 
 //struct ITEM_SET_TYPE
